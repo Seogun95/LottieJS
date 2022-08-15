@@ -2,7 +2,7 @@
 
 ## 목차
 
-1. [library](#library)(#library)
+1. [library](#library)
 2. [import](#import)
 3. [html](#html)
 
