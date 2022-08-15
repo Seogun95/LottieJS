@@ -1,8 +1,12 @@
 # Lottie js
 
-`lottie JS`를 사용하여 `html`에 벡터 이미지를 `json`형태로 불러와,
+## 목차
 
-웹사이트에 구현하는 코드 입니다.
+1. [library](#library)(#library)
+2. [import](#import)
+3. [html](#html)
+
+`lottie JS`를 사용하여 `html`에 벡터 이미지를 `json`형태로 불러와, 웹사이트에 구현하는 코드 입니다.
 
 `lottie JS`는 [lottie file](https://lottiefiles.com/) 에서 더 많은 기능을 확인할 수 있습니다.
 
@@ -12,13 +16,13 @@
 
 `lottie json` 은 `html`, `webflow`, `android`, `iOS` 환경에서 이용할 수 있습니다.
 
-**import**
+### import
 
 ```html
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 ```
 
-**html**
+### html
 
 ```html
 <div class="lottie-container">
